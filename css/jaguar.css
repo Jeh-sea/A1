@@ -1,6 +1,12 @@
 body {
-    font-family: Courier New;
-    background-color: rgb(185, 146, 19);
-    text-align: center;
-  }
-  
+  font-family: Courier New;
+  background-color: rgb(185, 146, 19);
+  text-align: center;
+}
+
+.text-box {
+  border: 2px solid black;
+  max-width: 600px;
+  padding: 20px;
+  margin: 20px auto;
+}
